@@ -37,3 +37,13 @@ The solutions are categorized based on DSA topics and difficulty levels.
 ✅ Regular updates with new problems
 
 💡 Feel free to contribute, discuss, or suggest improvements!
+
+
+## 📝 LeetCode Solutions
+
+| #  | Problem Name  | Solution  | Difficulty |
+|----|--------------|-----------|------------|
+| 1  | [SET MATRIX ZEROES](https://leetcode.com/problems/set-matrix-zeroes/description/) | 🔵 Medium |
+
+
+
