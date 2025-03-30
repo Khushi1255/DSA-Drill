@@ -27,6 +27,12 @@ The solutions are categorized based on DSA topics and difficulty levels.
 🔵 Medium
 🔴 Hard
 
+## 📍 Where to Find Me  
+- **GitHub:** [Khushi1255](https://github.com/Khushi1255)  
+- **LeetCode:** [sensei_007](https://leetcode.com/u/sensei_007/)  
+- **LinkedIn:** [Khushi Kumari](https://www.linkedin.com/in/khushi-kumari-235818261/)  
+
+
 🚀 What’s inside?
 ✅ Structured solutions to DSA problems
 ✅ Optimized approaches with explanations
