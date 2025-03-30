@@ -4,6 +4,7 @@ This repository contains my solutions to various Data Structures and Algorithms 
 The solutions are categorized based on DSA topics and difficulty levels.
 
 📂 Data Structures:
+
 🟢 Arrays
 🔵 Linked Lists
 🔴 Stacks & Queues
@@ -12,6 +13,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 🟠 HashMaps & Heaps
 
 📂 Algorithms:
+
 ✨ Sorting & Searching
 🔥 Dynamic Programming
 🔁 Recursion & Backtracking
@@ -20,6 +22,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 🧩 Bit Manipulation
 
 📂 By Difficulty:
+
 🟢 Easy
 🔵 Medium
 🔴 Hard
