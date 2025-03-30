@@ -1,4 +1,8 @@
+## 📝 LeetCode Solutions
 
+| #  | Problem Name  | Solution  | Difficulty |
+|----|--------------|-----------|------------|
+| 1  | [SORT COLORS](https://leetcode.com/problems/sort-colors/) | 🔵 Medium |
 
 class Solution {
 public:
