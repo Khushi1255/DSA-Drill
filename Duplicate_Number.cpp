@@ -2,7 +2,7 @@
 
 | #  | Problem Name  | Solution  | Difficulty |
 |----|--------------|-----------|------------|
-| 1  | [DUPLICATE NUMBER](https://leetcode.com/problems/find-the-duplicate-number/) | [Two_Sum.cpp](Two_Sum.cpp) | 🔵 Medium |
+| 1  | [DUPLICATE NUMBER](https://leetcode.com/problems/find-the-duplicate-number/) | 🔵 Medium |
 
 class Solution {
 public:
