@@ -1,10 +1,9 @@
 # DSA-Drill
-This repository contains my solutions to various Data Structures and Algorithms (DSA) problems from platforms like LeetCode, CodeForces, CodeChef, and more. Each solution is well-documented with explanations, optimized approaches, and code in C++ language
+This repository contains my solutions to various Data Structures and Algorithms (DSA) problems from platform like LeetCode. Each solution is well-documented with explanations, optimized approaches, and code in C++ language
 
 The solutions are categorized based on DSA topics and difficulty levels.
 
-📂 Data Structures:
-
+📂 Data Structures:-
 🟢 Arrays
 🔵 Linked Lists
 🔴 Stacks & Queues
@@ -12,8 +11,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 🟣 Graphs
 🟠 HashMaps & Heaps
 
-📂 Algorithms:
-
+📂 Algorithms:-
 ✨ Sorting & Searching
 🔥 Dynamic Programming
 🔁 Recursion & Backtracking
@@ -21,8 +19,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 🏹 Greedy Algorithms
 🧩 Bit Manipulation
 
-📂 By Difficulty:
-
+📂 By Difficulty:-
 🟢 Easy
 🔵 Medium
 🔴 Hard
