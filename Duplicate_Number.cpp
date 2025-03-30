@@ -1,3 +1,9 @@
+## 📝 LeetCode Solutions
+
+| #  | Problem Name  | Solution  | Difficulty |
+|----|--------------|-----------|------------|
+| 1  | [DUPLICATE NUMBER](https://leetcode.com/problems/find-the-duplicate-number/) | [Two_Sum.cpp](Two_Sum.cpp) | 🔵 Medium |
+
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
