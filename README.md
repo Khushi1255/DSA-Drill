@@ -38,12 +38,13 @@ The solutions are categorized based on DSA topics and difficulty levels.
 
 💡 Feel free to contribute, discuss, or suggest improvements!
 
-
 ## 📝 LeetCode Solutions
 
 | #  | Problem Name  | Solution  | Difficulty |
 |----|--------------|-----------|------------|
-| 1  | [SET MATRIX ZEROES](https://leetcode.com/problems/set-matrix-zeroes/description/) | 🔵 Medium |
+| 1  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/) | [DUPLICATE_NUMBER.cpp](DUPLICATE_NUMBER.cpp) |🔵 Medium |
+
+
 
 
 
