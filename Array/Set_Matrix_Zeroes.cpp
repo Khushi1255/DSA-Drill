@@ -1,4 +1,8 @@
+## 📝 LeetCode Solutions
 
+| #  | Problem Name  | Solution  | Difficulty |
+|----|--------------|-----------|------------|
+| 1  | [SET MATRIX ZEROES](https://leetcode.com/problems/set-matrix-zeroes/description/) | 🔵 Medium |
 
 
 class Solution {
