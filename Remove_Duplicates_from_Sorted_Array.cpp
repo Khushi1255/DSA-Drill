@@ -1,3 +1,9 @@
+## 📝 LeetCode Solutions
+
+| #  | Problem Name  | Solution  | Difficulty |
+|----|--------------|-----------|------------|
+| 1  | [REMOVE DUPLICATES FROM SORTED ARRAY](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | 🟢 Easy |
+
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
