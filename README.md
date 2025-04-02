@@ -46,6 +46,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 2  | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Sort_Colors.cpp](Array/Sort_Colors.cpp) | 🔵 Medium |
 | 3  | [Remove Duplicates from Sorted Arrray](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove_Duplicates_from_Sorted_Array.cpp](Array/Remove_Duplicates_from_Sorted_Array.cpp) | 🟢 Easy |
 | 4  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Set_Matrix_Zeroes.cpp](Array/Set_Matrix_Zeroes.cpp) | 🔵 Medium |
+| 5  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Move_Zeroes.cpp](Array/Move_Zeroes.cpp) | 🟢 Easy |
 
 
 
