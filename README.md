@@ -50,7 +50,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 6  | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best_Time_To_Buy_And_Sell_Stock.cpp](Array/Best_Time_To_Buy_And_Sell_Stock.cpp) | 🟢 Easy |
 | 7  | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) | [Chocolate_Distribution_Problem.cpp](Array/Chocolate_Distribution_Problem.cpp) | 🟢 Easy |
 | 8  | [Two Sum](https://leetcode.com/problems/two-sum/) | [Two_Sum.cpp](Array/Two_Sum.cpp) |  🟢 Easy |
-| 9  | [Best Time To Buy And Sell Stock 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best_Time_To_Buy_And_Sell_Stock_2.cpp](Best_Time_To_Buy_And_Sell_Stock_2.cpp) | 🔵 Medium |
+| 9  | [Best Time To Buy And Sell Stock 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best_Time_To_Buy_And_Sell_Stock_2.cpp](Array/Best_Time_To_Buy_And_Sell_Stock_2.cpp) | 🔵 Medium |
 
 
 
