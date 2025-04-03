@@ -49,7 +49,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 5  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Move_Zeroes.cpp](Array/Move_Zeroes.cpp) | 🟢 Easy |
 | 6  | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best_Time_To_Buy_And_Sell_Stock.cpp](Array/Best_Time_To_Buy_And_Sell_Stock.cpp) | 🟢 Easy |
 | 7  | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1) | [Chocolate_Distribution_Problem.cpp](Array/Chocolate_Distribution_Problem.cpp) | 🟢 Easy |
-
+| 8  | [Two Sum](https://leetcode.com/problems/two-sum/) | [Two_Sum.cpp](Array/Two_Sum.cpp) |  🟢 Easy |
 
 
 
