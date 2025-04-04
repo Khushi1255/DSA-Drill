@@ -52,7 +52,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 8  | [Two Sum](https://leetcode.com/problems/two-sum/) | [Two_Sum.cpp](Array/Two_Sum.cpp) |  🟢 Easy |
 | 9  | [Best Time To Buy And Sell Stock 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best_Time_To_Buy_And_Sell_Stock_2.cpp](Array/Best_Time_To_Buy_And_Sell_Stock_2.cpp) | 🔵 Medium |
 | 10 | [Subarray Sum Divisible By K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [Subarray_Sum_Divisible_By_K.cpp](Array/Subarray_Sum_Divisible_By_K.cpp) | 🔵 Medium |
-| 11 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find_All_Duplicates_In_An_Array.cpp)(Array/Find_All_Duplicates_In_An_Array.cpp) | 🔵 Medium |
+| 11 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find_All_Duplicates_In_An_Array.cpp](Array/Find_All_Duplicates_In_An_Array.cpp) | 🔵 Medium |
 
 
 
