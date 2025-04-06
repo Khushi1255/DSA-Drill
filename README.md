@@ -55,4 +55,5 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 11 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find_All_Duplicates_In_An_Array.cpp](Array/Find_All_Duplicates_In_An_Array.cpp) | 🔵 Medium |
 | 12 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Container_With_Most_Water.cpp](Array/Container_With_Most_Water.cpp) | 🔵 Medium |
 | 13 | [3SUM](https://leetcode.com/problems/3sum/) | [3SUM.cpp](Array/3SUM.cpp) | 🔵 Medium |
+| 14 | [4SUM](https://leetcode.com/problems/4sum/description/) | [4SUM.cpp](Array/4SUM.cpp) | 🔵 Medium |
 
