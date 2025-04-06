@@ -56,4 +56,4 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 12 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Container_With_Most_Water.cpp](Array/Container_With_Most_Water.cpp) | 🔵 Medium |
 | 13 | [3SUM](https://leetcode.com/problems/3sum/) | [3SUM.cpp](Array/3SUM.cpp) | 🔵 Medium |
 | 14 | [4SUM](https://leetcode.com/problems/4sum/description/) | [4SUM.cpp](Array/4SUM.cpp) | 🔵 Medium |
-| 15 | [Create Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) | [Create_Maximum_Points_You_Can_Obtain_From_Cards.cpp](Array/Create_Maximum_Points_You_Can_Obtain_From_Cards.cpp) | 🔵 Medium |
+| 15 | [Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) | [Maximum_Points_You_Can_Obtain_From_Cards.cpp](Array/Maximum_Points_You_Can_Obtain_From_Cards.cpp) | 🔵 Medium |
