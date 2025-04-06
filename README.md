@@ -54,5 +54,5 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 10 | [Subarray Sum Divisible By K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/) | [Subarray_Sum_Divisible_By_K.cpp](Array/Subarray_Sum_Divisible_By_K.cpp) | 🔵 Medium |
 | 11 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/) | [Find_All_Duplicates_In_An_Array.cpp](Array/Find_All_Duplicates_In_An_Array.cpp) | 🔵 Medium |
 | 12 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/) | [Container_With_Most_Water.cpp](Array/Container_With_Most_Water.cpp) | 🔵 Medium |
-
+| 13 | [3SUM](https://leetcode.com/problems/3sum/) | [3SUM.cpp](Array/3SUM.cpp) | 🔵 Medium |
 
