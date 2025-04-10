@@ -57,3 +57,4 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 13 | [3SUM](https://leetcode.com/problems/3sum/) | [3SUM.cpp](Array/3SUM.cpp) | 🔵 Medium |
 | 14 | [4SUM](https://leetcode.com/problems/4sum/description/) | [4SUM.cpp](Array/4SUM.cpp) | 🔵 Medium |
 | 15 | [Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) | [Maximum_Points_You_Can_Obtain_From_Cards.cpp](Array/Maximum_Points_You_Can_Obtain_From_Cards.cpp) | 🔵 Medium |
+| 16| [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Subarray_Sum_Equals_K.cpp](Array/Subarray_Sum_Equals_K.cpp) | 🔵 Medium |
