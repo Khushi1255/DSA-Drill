@@ -59,3 +59,4 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 15 | [Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) | [Maximum_Points_You_Can_Obtain_From_Cards.cpp](Array/Maximum_Points_You_Can_Obtain_From_Cards.cpp) |🔵Medium |
 | 16 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/) | [Subarray_Sum_Equals_K.cpp](Array/Subarray_Sum_Equals_K.cpp) |🔵Medium |
 | 17 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Spiral_Matrix.cpp](Array/Spiral_Matrix.cpp) |🔵Medium |
+| 18 | [Word Search](https://leetcode.com/problems/word-search/solutions/) | [Word_Search.cpp](Array/Word_Search.cpp) |🔵Medium |
