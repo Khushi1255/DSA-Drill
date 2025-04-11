@@ -61,3 +61,4 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 17 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/) | [Spiral_Matrix.cpp](Array/Spiral_Matrix.cpp) |🔵Medium |
 | 18 | [Word Search](https://leetcode.com/problems/word-search/solutions/) | [Word_Search.cpp](Array/Word_Search.cpp) |🔵Medium |
 | 19 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Merge_Sorted_Array.cpp](Array/Merge_Sorted_Array.cpp) |🟢 Easy |
+| 20 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Jump_Game.cpp](Array/Jump_Game.cpp) | 🔵Medium |
