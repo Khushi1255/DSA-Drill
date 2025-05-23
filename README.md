@@ -62,3 +62,5 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 18 | [Word Search](https://leetcode.com/problems/word-search/solutions/) | [Word_Search.cpp](Array/Word_Search.cpp) |🔵Medium |
 | 19 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/) | [Merge_Sorted_Array.cpp](Array/Merge_Sorted_Array.cpp) |🟢 Easy |
 | 20 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Jump_Game.cpp](Array/Jump_Game.cpp) | 🔵Medium |
+| 21 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Majority_Element.cpp](Array/Majority_Element.cpp) | 🟢 Easy |
+| 22 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Reverse_Pairs.cpp](Array/Reverse_Pairs.cpp) | 🔴 Hard | 
