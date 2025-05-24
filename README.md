@@ -70,3 +70,4 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 26 | [Minimize the Heights](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1) | [Minimize_the_heights.cpp](Array/Minimize_the_heights.cpp) |  🔵Medium |
 | 27 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Maximum_Product_Subarray.cpp](Array/Maximum_Product_Subarray.cpp) | 🔵Medium |
 | 28 | [Count Inversion](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Count_Inversion.cpp](Array/Count_Inversion.cpp) | 🔵Medium |
+| 29 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Longest_Consecutive_Sequence.cpp](Array/Longest_Consecutive_Sequence.cpp) | 🔵Medium |
