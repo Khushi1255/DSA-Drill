@@ -67,4 +67,4 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 23 | [All Unique Permutations of an array](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/0) | [All_Unique_Permutations_of_an_array.cpp](Array/All_Unique_Permutations_of_an_array.cpp) | 🔵Medium |
 | 24 | [Maximum Subarray Sum(Kadans Algo.)](https://leetcode.com/problems/maximum-subarray/description/) | [Maximum_Subarray_Sum.cpp](Array/Maximum_Subarray_Sum.cpp) | 🔵Medium |
 | 25 | [Union of Arrays with Duplicates](https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | [Union_of_Arrays_with_Duplicates.cpp](Array/Union_of_Arrays_with_Duplicates.cpp) | 🟢 Easy |
-| 26 | [Minimize the Heights](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1) | [Minimize_the_heights.cpp](Array/Minimize_the_heights.cpp) |  🔵Medium |
+| 26 | [Minimize the Heights](https://www.geeksforgeeks.org/problems/minimize-the-heights3351/1) | [Minimize_the_heights.cpp](Array/Minimize _the_heights.cpp.cpp) |  🔵Medium |
