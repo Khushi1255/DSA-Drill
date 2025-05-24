@@ -11,3 +11,4 @@ class Solution {
         return st.size();
     }
 };
+//SET will always store the distinct elements so thats why we had use the set
