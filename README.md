@@ -64,4 +64,6 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 20 | [Jump Game](https://leetcode.com/problems/jump-game/description/) | [Jump_Game.cpp](Array/Jump_Game.cpp) | 🔵Medium |
 | 21 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Majority_Element.cpp](Array/Majority_Element.cpp) | 🟢 Easy |
 | 22 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Reverse_Pairs.cpp](Array/Reverse_Pairs.cpp) | 🔴 Hard | 
-| 23 | [All Unique Permutations of an array](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/0) | [All_Unique_Permutations_of_an_array.cpp](Array/All_Unique_Permutations_of_an_array.cpp) | 🔵Medium |
+| 23 | [All Unique Permutations of an array](https://www.geeksforgeeks.org/problems/all-unique-permutations-of-an-array/0) | [All_Unique_Permutations_of_an_array.cpp]
+(Array/All_Unique_Permutations_of_an_array.cpp) | 🔵Medium |
+| 24 | [Maximum Subarray Sum(Kadans Algo.)](https://leetcode.com/problems/maximum-subarray/description/) | [Maximum_Subarray_Sum.cpp](Array/Maximum_Subarray_Sum.cpp) | 🔵Medium |
