@@ -71,3 +71,6 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 27 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/) | [Maximum_Product_Subarray.cpp](Array/Maximum_Product_Subarray.cpp) | 🔵Medium |
 | 28 | [Count Inversion](https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Count_Inversion.cpp](Array/Count_Inversion.cpp) | 🔵Medium |
 | 29 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Longest_Consecutive_Sequence.cpp](Array/Longest_Consecutive_Sequence.cpp) | 🔵Medium |
+| 30 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/) | [Merge_Intervals.cpp](Array/Merge_Intervals.cpp) | 🔵Medium |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Next_Permutation.cpp](Array/Next_Permuatation.cpp) | 🔵Medium |
+| 32 | [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Search_2D_Matrix.cpp](Array/Search_2D_Matrix.cpp) | 🔵Medium |
