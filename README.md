@@ -42,7 +42,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 
 ## 📂 Array
 <details>
-  <summary>**Array Questions**</summary>
+  <summary>Array Questions</summary>
 
 <br>
 
