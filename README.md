@@ -41,6 +41,10 @@ The solutions are categorized based on DSA topics and difficulty levels.
 ## 📝 LeetCode Solutions
 
 ## 📂 Array
+<details>
+  <summary>Click to expand Array Questions</summary>
+
+<br>
 
 | #  | Problem Name | Solution | Difficulty |
 |----|--------------|----------|------------|
@@ -76,4 +80,4 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 30 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Merge_Intervals.cpp](Array/Merge_Intervals.cpp) | 🟦 Medium |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Next_Permutation.cpp](Array/Next_Permuatation.cpp) | 🟦 Medium |
 | 32 | [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Search_2D_Matrix.cpp](Array/Search_2D_Matrix.cpp) | 🟦 Medium |
-
+</details>
