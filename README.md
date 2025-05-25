@@ -39,7 +39,9 @@ The solutions are categorized based on DSA topics and difficulty levels.
 💡 Feel free to contribute, discuss, or suggest improvements!
 
 ## 📝 LeetCode Solutions
-###Array:-
+
+## 📂 Array
+
 | #  | Problem Name  | Solution  | Difficulty |
 |----|--------------|-----------|------------|
 | 1  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Duplicate_Number.cpp](Array/Duplicate_Number.cpp) |🔵Medium |
