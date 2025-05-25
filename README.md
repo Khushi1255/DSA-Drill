@@ -48,36 +48,36 @@ The solutions are categorized based on DSA topics and difficulty levels.
 
 | #  | Problem Name | Solution | Difficulty |
 |----|--------------|----------|------------|
-| 1  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Duplicate_Number.cpp](Array/Duplicate_Number.cpp) | 🟦 Medium |
-| 2  | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Sort_Colors.cpp](Array/Sort_Colors.cpp) | 🟦 Medium |
-| 3  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove_Duplicates_from_Sorted_Array.cpp](Array/Remove_Duplicates_from_Sorted_Array.cpp) | 🟩 Easy |
-| 4  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Set_Matrix_Zeroes.cpp](Array/Set_Matrix_Zeroes.cpp) | 🟦 Medium |
-| 5  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Move_Zeroes.cpp](Array/Move_Zeroes.cpp) | 🟩 Easy |
-| 6  | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best_Time_To_Buy_And_Sell_Stock.cpp](Array/Best_Time_To_Buy_And_Sell_Stock.cpp) | 🟩 Easy |
-| 7  | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem3825/) | [Chocolate_Distribution_Problem.cpp](Array/Chocolate_Distribution_Problem.cpp) | 🟩 Easy |
-| 8  | [Two Sum](https://leetcode.com/problems/two-sum/) | [Two_Sum.cpp](Array/Two_Sum.cpp) | 🟩 Easy |
-| 9  | [Best Time To Buy And Sell Stock 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best_Time_To_Buy_And_Sell_Stock_2.cpp](Array/Best_Time_To_Buy_And_Sell_Stock_2.cpp) | 🟦 Medium |
-| 10 | [Subarray Sum Divisible By K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [Subarray_Sum_Divisible_By_K.cpp](Array/Subarray_Sum_Divisible_By_K.cpp) | 🟦 Medium |
-| 11 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Find_All_Duplicates_In_An_Array.cpp](Array/Find_All_Duplicates_In_An_Array.cpp) | 🟦 Medium |
-| 12 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Container_With_Most_Water.cpp](Array/Container_With_Most_Water.cpp) | 🟦 Medium |
-| 13 | [3SUM](https://leetcode.com/problems/3sum/) | [3SUM.cpp](Array/3SUM.cpp) | 🟦 Medium |
-| 14 | [4SUM](https://leetcode.com/problems/4sum/) | [4SUM.cpp](Array/4SUM.cpp) | 🟦 Medium |
-| 15 | [Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Maximum_Points_You_Can_Obtain_From_Cards.cpp](Array/Maximum_Points_You_Can_Obtain_From_Cards.cpp) | 🟦 Medium |
-| 16 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray_Sum_Equals_K.cpp](Array/Subarray_Sum_Equals_K.cpp) | 🟦 Medium |
-| 17 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Spiral_Matrix.cpp](Array/Spiral_Matrix.cpp) | 🟦 Medium |
-| 18 | [Word Search](https://leetcode.com/problems/word-search/) | [Word_Search.cpp](Array/Word_Search.cpp) | 🟦 Medium |
-| 19 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Merge_Sorted_Array.cpp](Array/Merge_Sorted_Array.cpp) | 🟩 Easy |
-| 20 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Jump_Game.cpp](Array/Jump_Game.cpp) | 🟦 Medium |
-| 21 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Majority_Element.cpp](Array/Majority_Element.cpp) | 🟩 Easy |
-| 22 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Reverse_Pairs.cpp](Array/Reverse_Pairs.cpp) | 🔴 Hard |
-| 23 | [All Unique Permutations of an Array](https://leetcode.com/problems/permutations-ii/) | [All_Unique_Permutations_of_an_array.cpp](Array/All_Unique_Permutations_of_an_array.cpp) | 🟦 Medium |
-| 24 | [Maximum Subarray Sum (Kadane's Algo)](https://leetcode.com/problems/maximum-subarray/) | [Maximum_Subarray_Sum.cpp](Array/Maximum_Subarray_Sum.cpp) | 🟦 Medium |
-| 25 | [Union of Arrays with Duplicates](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | [Union_of_Arrays_with_Duplicates.cpp](Array/Union_of_Arrays_with_Duplicates.cpp) | 🟩 Easy |
-| 26 | [Minimize the Heights](https://www.geeksforgeeks.org/minimize-the-heights-i/) | [Minimize_the_heights.cpp](Array/Minimize_the_heights.cpp) | 🟦 Medium |
-| 27 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Maximum_Product_Subarray.cpp](Array/Maximum_Product_Subarray.cpp) | 🟦 Medium |
-| 28 | [Count Inversion](https://www.geeksforgeeks.org/counting-inversions/) | [Count_Inversion.cpp](Array/Count_Inversion.cpp) | 🟦 Medium |
-| 29 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Longest_Consecutive_Sequence.cpp](Array/Longest_Consecutive_Sequence.cpp) | 🟦 Medium |
-| 30 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Merge_Intervals.cpp](Array/Merge_Intervals.cpp) | 🟦 Medium |
-| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Next_Permutation.cpp](Array/Next_Permuatation.cpp) | 🟦 Medium |
-| 32 | [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Search_2D_Matrix.cpp](Array/Search_2D_Matrix.cpp) | 🟦 Medium |
+| 1  | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Duplicate_Number.cpp](Array/Duplicate_Number.cpp) | 🟦Medium |
+| 2  | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Sort_Colors.cpp](Array/Sort_Colors.cpp) | 🟦Medium |
+| 3  | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Remove_Duplicates_from_Sorted_Array.cpp](Array/Remove_Duplicates_from_Sorted_Array.cpp) | 🟩Easy |
+| 4  | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | [Set_Matrix_Zeroes.cpp](Array/Set_Matrix_Zeroes.cpp) | 🟦Medium |
+| 5  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Move_Zeroes.cpp](Array/Move_Zeroes.cpp) | 🟩Easy |
+| 6  | [Best Time To Buy And Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Best_Time_To_Buy_And_Sell_Stock.cpp](Array/Best_Time_To_Buy_And_Sell_Stock.cpp) | 🟩Easy |
+| 7  | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem3825/) | [Chocolate_Distribution_Problem.cpp](Array/Chocolate_Distribution_Problem.cpp) | 🟩Easy |
+| 8  | [Two Sum](https://leetcode.com/problems/two-sum/) | [Two_Sum.cpp](Array/Two_Sum.cpp) | 🟩Easy |
+| 9  | [Best Time To Buy And Sell Stock 2](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Best_Time_To_Buy_And_Sell_Stock_2.cpp](Array/Best_Time_To_Buy_And_Sell_Stock_2.cpp) | 🟦Medium |
+| 10 | [Subarray Sum Divisible By K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [Subarray_Sum_Divisible_By_K.cpp](Array/Subarray_Sum_Divisible_By_K.cpp) | 🟦Medium |
+| 11 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Find_All_Duplicates_In_An_Array.cpp](Array/Find_All_Duplicates_In_An_Array.cpp) | 🟦Medium |
+| 12 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Container_With_Most_Water.cpp](Array/Container_With_Most_Water.cpp) | 🟦Medium |
+| 13 | [3SUM](https://leetcode.com/problems/3sum/) | [3SUM.cpp](Array/3SUM.cpp) | 🟦Medium |
+| 14 | [4SUM](https://leetcode.com/problems/4sum/) | [4SUM.cpp](Array/4SUM.cpp) | 🟦Medium |
+| 15 | [Maximum Points You Can Obtain From Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/) | [Maximum_Points_You_Can_Obtain_From_Cards.cpp](Array/Maximum_Points_You_Can_Obtain_From_Cards.cpp) | 🟦Medium |
+| 16 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Subarray_Sum_Equals_K.cpp](Array/Subarray_Sum_Equals_K.cpp) | 🟦Medium |
+| 17 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Spiral_Matrix.cpp](Array/Spiral_Matrix.cpp) | 🟦Medium |
+| 18 | [Word Search](https://leetcode.com/problems/word-search/) | [Word_Search.cpp](Array/Word_Search.cpp) | 🟦Medium |
+| 19 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Merge_Sorted_Array.cpp](Array/Merge_Sorted_Array.cpp) | 🟩Easy |
+| 20 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Jump_Game.cpp](Array/Jump_Game.cpp) | 🟦Medium |
+| 21 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Majority_Element.cpp](Array/Majority_Element.cpp) | 🟩Easy |
+| 22 | [Reverse Pairs](https://leetcode.com/problems/reverse-pairs/) | [Reverse_Pairs.cpp](Array/Reverse_Pairs.cpp) | 🔴Hard |
+| 23 | [All Unique Permutations of an Array](https://leetcode.com/problems/permutations-ii/) | [All_Unique_Permutations_of_an_array.cpp](Array/All_Unique_Permutations_of_an_array.cpp) | 🟦Medium |
+| 24 | [Maximum Subarray Sum (Kadane's Algo)](https://leetcode.com/problems/maximum-subarray/) | [Maximum_Subarray_Sum.cpp](Array/Maximum_Subarray_Sum.cpp) | 🟦Medium |
+| 25 | [Union of Arrays with Duplicates](https://practice.geeksforgeeks.org/problems/union-of-two-arrays3538/1) | [Union_of_Arrays_with_Duplicates.cpp](Array/Union_of_Arrays_with_Duplicates.cpp) | 🟩Easy |
+| 26 | [Minimize the Heights](https://www.geeksforgeeks.org/minimize-the-heights-i/) | [Minimize_the_heights.cpp](Array/Minimize_the_heights.cpp) | 🟦Medium |
+| 27 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Maximum_Product_Subarray.cpp](Array/Maximum_Product_Subarray.cpp) | 🟦Medium |
+| 28 | [Count Inversion](https://www.geeksforgeeks.org/counting-inversions/) | [Count_Inversion.cpp](Array/Count_Inversion.cpp) | 🟦Medium |
+| 29 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | [Longest_Consecutive_Sequence.cpp](Array/Longest_Consecutive_Sequence.cpp) | 🟦Medium |
+| 30 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Merge_Intervals.cpp](Array/Merge_Intervals.cpp) | 🟦Medium |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Next_Permutation.cpp](Array/Next_Permuatation.cpp) | 🟦Medium |
+| 32 | [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Search_2D_Matrix.cpp](Array/Search_2D_Matrix.cpp) | 🟦Medium |
 </details>
