@@ -81,3 +81,15 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/description/) | [Next_Permutation.cpp](Array/Next_Permuatation.cpp) | 🟦Medium |
 | 32 | [Search 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Search_2D_Matrix.cpp](Array/Search_2D_Matrix.cpp) | 🟦Medium |
 </details>
+
+## 📂 Hashing
+<details>
+  <summary>Hashing Questions</summary>
+<br>
+| #  | Problem Name | Solution | Difficulty |
+|----|--------------|----------|------------|
+| 1  | [Array Subset](https://www.geeksforgeeks.org/problems/array-subset-of-another-array2317/1) | [Array_Subset.cpp](Hashing/Array_Subset.cpp) | 🟦Medium |
+| 2  | [Array Pair Sum Divisibility Problem](https://www.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1) | [Array_Pair_Sum_Divisibility_Problem.cpp](Hashing/Array_Pair_Sum_Divisibility_Problem.cpp) | 🟦Medium |
+| 3  | [Largest subarray of 0's and 1's](https://www.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1) | [Largest_subarray_of_0's_and_1's.cpp](Hashing/Largest_subarray_of_0's_and_1's.cpp) | 🟩Easy |
+| 4  | [Symmetric pairs in an array](https://www.geeksforgeeks.org/given-an-array-of-pairs-find-all-symmetric-pairs-in-it/) | [Symmetric_pairs_in_an_array.cpp](Hashing/Symmetric_pairs_in_an_array.cpp) | 🟦Medium |
+</details>
