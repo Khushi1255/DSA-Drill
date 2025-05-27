@@ -105,7 +105,11 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 1  | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1?selectedLang=cpp) | [Selection_Sort.cpp](Sorting_and_Searching/Selection_Sort.cpp) | 🟦Medium |
 | 2  | [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1) | [Bubble_Sort.cpp](Sorting_and_Searching/Bubble_Sort.cpp) | 🟦Medium |
 | 3  | [Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/1) | [Insertion_Sort.cpp](Sorting_and_Searching/Insertion_Sort.cpp) | 🟩Easy |
-| 4  | [Quick_Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) | [Quick_Sort.cpp](Sorting_and_Searching/Quick_Sort.cpp) | 🟦Medium |
+| 4  | [Quick Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) | [Quick_Sort.cpp](Sorting_and_Searching/Quick_Sort.cpp) | 🟦Medium |
 | 5  | [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) | [Merge_Sort.cpp](Sorting_and_Searching/Merge_Sort.cpp) | 🟦Medium |
+| 6  | [Linear Search ](https://www.geeksforgeeks.org/problems/search-an-element-in-an-array-1587115621/1) | [Linear_Search.cpp](Sorting_and_Searching/Linear_Search.cpp) | 🟦Medium |
+| 7  | [Binary Search](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1) | [Binary_Search.cpp](Sorting_and_Searching/Binary_Search.cpp) | 🟦Medium |
+| 8  | [Ternary Search](https://www.geeksforgeeks.org/problems/searching-an-element-in-a-sorted-array-ternary-search--141631/1) | [Ternary_Search.cpp](Sorting_and_Searching/Ternary_Search.cpp) | 🟦Medium |
+
 </details>
 
