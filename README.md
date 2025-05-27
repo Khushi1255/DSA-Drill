@@ -95,7 +95,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 4  | [Symmetric pairs in an array](https://www.geeksforgeeks.org/given-an-array-of-pairs-find-all-symmetric-pairs-in-it/) | [Symmetric_pairs_in_an_array.cpp](Hashing/Symmetric_pairs_in_an_array.cpp) | 🟦Medium |
 </details>
 
-## 📂 Sorting Algorithm
+## 📂 Sorting & Searching Algorithm
 <details>
   <summary>Sorting Questions</summary>
 <br>
