@@ -94,3 +94,18 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 3  | [Largest subarray of 0's and 1's](https://www.geeksforgeeks.org/problems/largest-subarray-of-0s-and-1s/1) | [Largest_subarray_of_0's_and_1's.cpp](Hashing/Largest_subarray_of_0's_and_1's.cpp) | 🟩Easy |
 | 4  | [Symmetric pairs in an array](https://www.geeksforgeeks.org/given-an-array-of-pairs-find-all-symmetric-pairs-in-it/) | [Symmetric_pairs_in_an_array.cpp](Hashing/Symmetric_pairs_in_an_array.cpp) | 🟦Medium |
 </details>
+
+## 📂 Sorting Algorithm
+<details>
+  <summary>Sorting Questions</summary>
+<br>
+
+| #  | Problem Name | Solution | Difficulty |
+|----|--------------|----------|------------|
+| 1  | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1?selectedLang=cpp) | [Selection_Sort.cpp](Sorting/Selection_Sort.cpp) | 🟦Medium |
+| 2  | [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1) | [Bubble_Sort.cpp](Sorting/Bubble_Sort.cpp) | 🟦Medium |
+| 3  | [Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/1) | [Insertion_Sort.cpp](Sorting/Insertion_Sort.cpp) | 🟩Easy |
+| 4  | [Quick_Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) | [Quick_Sort.cpp](Sorting/Quick_Sort.cpp) | 🟦Medium |
+| 5  | [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) | [Merge_Sort.cpp](Sorting/Merge_Sort.cpp) | 🟦Medium |
+</details>
+
