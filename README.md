@@ -102,10 +102,10 @@ The solutions are categorized based on DSA topics and difficulty levels.
 
 | #  | Problem Name | Solution | Difficulty |
 |----|--------------|----------|------------|
-| 1  | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1?selectedLang=cpp) | [Selection_Sort.cpp](Sorting_&_Searching/Selection_Sort.cpp) | 🟦Medium |
-| 2  | [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1) | [Bubble_Sort.cpp](Sorting_&_Searching/Bubble_Sort.cpp) | 🟦Medium |
-| 3  | [Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/1) | [Insertion_Sort.cpp](Sorting_&_Searching/Insertion_Sort.cpp) | 🟩Easy |
-| 4  | [Quick_Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) | [Quick_Sort.cpp](Sorting_&_Searching/Quick_Sort.cpp) | 🟦Medium |
-| 5  | [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) | [Merge_Sort.cpp](Sorting_&_Searching/Merge_Sort.cpp) | 🟦Medium |
+| 1  | [Selection Sort](https://www.geeksforgeeks.org/problems/selection-sort/1?selectedLang=cpp) | [Selection_Sort.cpp](Sorting_and_Searching/Selection_Sort.cpp) | 🟦Medium |
+| 2  | [Bubble Sort](https://www.geeksforgeeks.org/problems/bubble-sort/1) | [Bubble_Sort.cpp](Sorting_and_Searching/Bubble_Sort.cpp) | 🟦Medium |
+| 3  | [Insertion Sort](https://www.geeksforgeeks.org/problems/insertion-sort/1) | [Insertion_Sort.cpp](Sorting_and_Searching/Insertion_Sort.cpp) | 🟩Easy |
+| 4  | [Quick_Sort](https://www.geeksforgeeks.org/problems/quick-sort/1) | [Quick_Sort.cpp](Sorting_and_Searching/Quick_Sort.cpp) | 🟦Medium |
+| 5  | [Merge Sort](https://www.geeksforgeeks.org/problems/merge-sort/1) | [Merge_Sort.cpp](Sorting_and_Searching/Merge_Sort.cpp) | 🟦Medium |
 </details>
 
