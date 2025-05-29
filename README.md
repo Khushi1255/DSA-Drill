@@ -113,7 +113,10 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 9  | [Permutations in array](https://www.geeksforgeeks.org/problems/permutations-in-array1747/1) | [Permutations_in_array.cpp](Sorting_and_Searching/Permutations_in_array.cpp) | 🟩Easy |
 | 10  | [Ceil in Sorted Array](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | [Ceil_in_a_Sorted_Array.cpp](Sorting_and_Searching/Ceil_in_a_Sorted_Array.cpp) | 🟩Easy |
 | 11  | [Find pair Given Difference](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1) | [Find_Pair_Given_Difference.cpp](Sorting_and_Searching/Find_Pair_Given_Difference.cpp) | 🟩Easy |
-| 12  | [Radix_Sort](https://www.geeksforgeeks.org/problems/radix-sort/1) | [Radix_Sort.cpp](Sorting_and_Searching/Radix_Sort.cpp) | 🟦Medium |
+| 12  | [Radix Sort](https://www.geeksforgeeks.org/problems/radix-sort/1) | [Radix_Sort.cpp](Sorting_and_Searching/Radix_Sort.cpp) | 🟦Medium |
+| 13  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [Find_Peak_Element.cpp](Sorting_and_Searching/Find_Peak_Element.cpp.cpp) | 🟦Medium |
+| 14  | [Search in rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search_In_Rotated_Sorted_Array.cpp](Sorting_and_Searching/Search_In_Rotated_Sorted_Array.cpp) | 🟦Medium |
+| 15  | [Minimum swap to sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1) | [Minimum_Swaps_To_Sort.cpp](Sorting_and_Searching/Minimum_Swaps_To_Sort.cpp) | 🟦Medium |
 
 </details>
 
