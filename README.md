@@ -111,12 +111,16 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 7  | [Binary Search](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1) | [Binary_Search.cpp](Sorting_and_Searching/Binary_Search.cpp) | 🟦Medium |
 | 8  | [Ternary Search](https://www.geeksforgeeks.org/problems/searching-an-element-in-a-sorted-array-ternary-search--141631/1) | [Ternary_Search.cpp](Sorting_and_Searching/Ternary_Search.cpp) | 🟦Medium |
 | 9  | [Permutations in array](https://www.geeksforgeeks.org/problems/permutations-in-array1747/1) | [Permutations_in_array.cpp](Sorting_and_Searching/Permutations_in_array.cpp) | 🟩Easy |
-| 10  | [Ceil in Sorted Array](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | [Ceil_in_a_Sorted_Array.cpp](Sorting_and_Searching/Ceil_in_a_Sorted_Array.cpp) | 🟩Easy |
-| 11  | [Find pair Given Difference](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1) | [Find_Pair_Given_Difference.cpp](Sorting_and_Searching/Find_Pair_Given_Difference.cpp) | 🟩Easy |
-| 12  | [Radix Sort](https://www.geeksforgeeks.org/problems/radix-sort/1) | [Radix_Sort.cpp](Sorting_and_Searching/Radix_Sort.cpp) | 🟦Medium |
-| 13  | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [Find_Peak_Element.cpp](Sorting_and_Searching/Find_Peak_Element.cpp) | 🟦Medium |
-| 14  | [Search in rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search_In_Rotated_Sorted_Array.cpp](Sorting_and_Searching/Search_In_Rotated_Sorted_Array.cpp) | 🟦Medium |
-| 15  | [Minimum swap to sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1) | [Minimum_Swaps_To_Sort.cpp](Sorting_and_Searching/Minimum_Swaps_To_Sort.cpp) | 🟦Medium |
+| 10 | [Ceil in Sorted Array](https://www.geeksforgeeks.org/problems/ceil-in-a-sorted-array/1) | [Ceil_in_a_Sorted_Array.cpp](Sorting_and_Searching/Ceil_in_a_Sorted_Array.cpp) | 🟩Easy |
+| 11 | [Find pair Given Difference](https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1) | [Find_Pair_Given_Difference.cpp](Sorting_and_Searching/Find_Pair_Given_Difference.cpp) | 🟩Easy |
+| 12 | [Radix Sort](https://www.geeksforgeeks.org/problems/radix-sort/1) | [Radix_Sort.cpp](Sorting_and_Searching/Radix_Sort.cpp) | 🟦Medium |
+| 13 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [Find_Peak_Element.cpp](Sorting_and_Searching/Find_Peak_Element.cpp) | 🟦Medium |
+| 14 | [Search in rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search_In_Rotated_Sorted_Array.cpp](Sorting_and_Searching/Search_In_Rotated_Sorted_Array.cpp) | 🟦Medium |
+| 15 | [Minimum swap to sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1) | [Minimum_Swaps_To_Sort.cpp](Sorting_and_Searching/Minimum_Swaps_To_Sort.cpp) | 🟦Medium |
+| 16 | [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [Aggressive_cows.cpp.cpp](Sorting_and_Searching/Aggressive_cows.cpp) | 🟦Medium |
+| 17 | [Allocate Minimum Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Allocate_Minimum_Pages.cpp](Sorting_and_Searching/Allocate_Minimum_Pages.cpp) | 🔴Hard  |
+| 18 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | [Count_Of_Smaller_Nos_After_Self.cpp](Sorting_and_Searching/Count_Of_Smaller_Nos_After_Self.cpp) | 🔴Hard  |
+| 19 | [Smallest Positive Missing](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | [Smallest_Positive_Missing.cpp](Sorting_and_Searching/Smallest_Positive_Integer.cpp) | 🟩Easy |
 
 </details>
 
