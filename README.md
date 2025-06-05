@@ -118,7 +118,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 14 | [Search in rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Search_In_Rotated_Sorted_Array.cpp](Sorting_and_Searching/Search_In_Rotated_Sorted_Array.cpp) | 🟦Medium |
 | 15 | [Minimum swap to sort](https://www.geeksforgeeks.org/problems/minimum-swaps/1) | [Minimum_Swaps_To_Sort.cpp](Sorting_and_Searching/Minimum_Swaps_To_Sort.cpp) | 🟦Medium |
 | 16 | [Aggressive Cows](https://www.geeksforgeeks.org/problems/aggressive-cows/1) | [Aggressive_cows.cpp.cpp](Sorting_and_Searching/Aggressive_cows.cpp) | 🟦Medium |
-| 17 | [Allocate Minimum Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Allocate_Minimum_Pages.cpp](Sorting_and_Searching/Allocate_Minimum_Pages.cpp) | 🔴Hard  |
+| 17 | [Allocate Minimum Pages](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1) | [Allocate_Minimum_Pages.cpp](Sorting_and_Searching/Allocate_Minimum_Pages.cpp) | 🔴Hard |
 | 18 | [Count of Smaller Numbers After Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/) | [Count_Of_Smaller_Nos_After_Self.cpp](Sorting_and_Searching/Count_Of_Smaller_Nos_After_Self.cpp) | 🔴Hard  |
 | 19 | [Smallest Positive Missing](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1) | [Smallest_Positive_Missing.cpp](Sorting_and_Searching/Smallest_Positive_Integer.cpp) | 🟩Easy |
 
@@ -141,4 +141,6 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 8  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Reverse_Words_in_a_String.cpp](Strings/Reverse_Words_in_a_String.cpp) | 🟦Medium  |
 | 9  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Group_Anagrams.cpp](Strings/Group_Anagrams.cpp) | 🟦Medium |
 | 10  | [Basic Calculator](https://leetcode.com/problems/basic-calculator-ii/description/) | [Basic_Calculator.cpp](Strings/Basic_Calculator.cpp) | 🟦Medium |
+| 11  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Minimum_Window_Substring.cpp](Strings/Minimum_Window_Substring.cpp) | 🔴Hard |
+| 12  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Integer_to_English_Words.cpp](Strings/Integer_to_English_Words.cpp) | 🔴Hard |
 
