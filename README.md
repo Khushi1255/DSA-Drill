@@ -134,5 +134,11 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 1  | [Valid Parenthesis](https://leetcode.com/problems/valid-parentheses/description/) | [Valid_Parentheses.cpp](Strings/Valid_Parentheses.cpp) | 🟩Easy |
 | 2  | [Print all the duplicate characters in a string](https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/) | [Print_al_the_duplicate_characters_in_a_string.cpp](Strings/Print_all_the_duplicate_characters_in_a_string.cpp) | 🟩Easy |
 | 3  | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/) | [Find_the_Index_of_the_First_Occurrence_in_a_String.cpp](Strings/Find_the_Index_of_the_First_Occurrence_in_a_String.cpp) | 🟩Easy |
-
+| 4  | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome-ii/description/) | [Valid_Palindrome.cpp](Strings/Valid_Palindrome.cpp) | 🟩Easy |
+| 5  | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Integer_to_Roman.cpp](Strings/Integer_to_Roman.cpp) | 🟦Medium |
+| 6  | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Generate_Parentheses.cpp](Strings/Generate_Parentheses.cpp) | 🟦Medium |
+| 7  | [Simplify Path](https://leetcode.com/problems/simplify-path/description/) | [Simplify_Path.cpp](Strings/Simplify_Path.cpp) | 🟦Medium |
+| 8  | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Reverse_Words_in_a_String.cpp](Strings/Reverse_Words_in_a_String.cpp) | 🟦Medium  |
+| 9  | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Group_Anagrams.cpp](Strings/Group_Anagrams.cpp) | 🟦Medium |
+| 10  | [Basic Calculator](https://leetcode.com/problems/basic-calculator-ii/description/) | [Basic_Calculator.cpp](Strings/Basic_Calculator.cpp) | 🟦Medium |
 
