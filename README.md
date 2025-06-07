@@ -144,3 +144,24 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 11  | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/) | [Minimum_Window_Substring.cpp](Strings/Minimum_Window_Substring.cpp) | 🔴Hard |
 | 12  | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/) | [Integer_to_English_Words.cpp](Strings/Integer_to_English_Words.cpp) | 🔴Hard |
 
+</details>
+
+## ✨ Linked Lists
+<details>
+  <summary>LL Questions</summary>
+<br>
+
+| #  | Problem Name | Solution | Difficulty |
+|----|--------------|----------|------------|
+| 1  | [Middle of the LL](https://leetcode.com/problems/middle-of-the-linkedlist/description/)[Middle_of_the_Linked_List.cpp(Linked_Lists/Middle_of_the_Linked_List.cpp) | 🟩Easy |
+| 2  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) [Linked_List_Cycle.cpp](Linked_Lists/Linked_List_Cycle.cpp) | 🟩Easy |
+| 3  | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) [Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp](Linked_Lists/Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp) | 🟩Easy |
+| 4  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) [Remove_Duplicates_from_Sorted_List.cpp](Linked_Lists/Remove_Duplicates_from_Sorted_List.cpp) | 🟩Easy |
+| 5  | [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) [Sort_List.cpp](Linked_Lists/Sort_List.cpp) | 🟩Easy |
+| 6  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) [Remove_Linked_List_Elements.cpp](Linked_Lists/Remove_Linked_List_Elements.cpp) | 🟩Easy |
+| 7  | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) [Merge_Two_Sorted_Lists.cpp](Linked_Lists/Merge_Two_Sorted_Lists.cpp) | 🟩Easy |
+| 8  | [Multiply two linked lists](https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1) [Multiply_two_linked_lists.cpp](Linked_Lists/Multiply_two_linked_lists.cpp) | 🟩Easy |
+| 9  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) [Intersection_of_Two_Linked_Lists.cpp](Linked_Lists/Intersection_of_Two_Linked_Lists.cpp) | 🟩Easy |
+| 10  | [Delete nodes having greater value on right](https://www.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1) [Delete_nodes_having_greater_value_on_right.cpp](Linked_Lists/Delete_nodes_having_greater_value_on_right.cpp) | 🟩Easy |
+
+
