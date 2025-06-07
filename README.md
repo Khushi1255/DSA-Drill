@@ -155,7 +155,7 @@ The solutions are categorized based on DSA topics and difficulty levels.
 |----|--------------|----------|------------|
 | 1  | [Middle of the LL](https://leetcode.com/problems/middle-of-the-linkedlist/description/) | [Middle_of_the_Linked_List.cpp](Linked_Lists/Middle_of_the_Linked_List.cpp) | 🟩Easy |
 | 2  | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/) | [Linked_List_Cycle.cpp](Linked_Lists/Linked_List_Cycle.cpp) | 🟩Easy |
-| 3  | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) [Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp] | (Linked_Lists/Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp) | 🟩Easy |
+| 3  | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/) | [Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp](Linked_Lists/Convert_Binary_Number_in_a_Linked_List_to_Integer.cpp) | 🟩Easy |
 | 4  | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/) |[Remove_Duplicates_from_Sorted_List.cpp](Linked_Lists/Remove_Duplicates_from_Sorted_List.cpp) | 🟩Easy |
 | 5  | [Sort a linked list of 0s, 1s and 2s](https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1) | [Sort_List.cpp](Linked_Lists/Sort_List.cpp) | 🟩Easy |
 | 6  | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/) | [Remove_Linked_List_Elements.cpp](Linked_Lists/Remove_Linked_List_Elements.cpp) | 🟩Easy |
