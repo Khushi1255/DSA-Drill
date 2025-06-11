@@ -1,48 +1,28 @@
 class Solution {
 public:
-    ListNode* reverseList(ListNode* head) {
-        ListNode* prev = NULL;
-
-        while(head) {
-            ListNode* nxt = head->next;
-            head->next = prev;
-            prev = head;
-            head = nxt;
-        }
-        return prev;
+    ListNode *addTwoNumbers(ListNode *l1, ListNode *l2,int carry=0){
+        ListNode* n=new ListNode();
+        if(l1 and l2){
+            int num=l1->val +l2->val +carry;
+            carry=num/10;
+            num=num%10;
+            n->val=num;
+            n->next=addTwoNumbers(l1->next, l2->next,carry);
+        }else if(l1){
+            int num=l1->val+carry;
+            carry=num/10;
+            num=num%10;
+            n->val=num;
+            n->next=addTwoNumbers(l1->next,l2,carry);
+        }else if(l2){
+            int num=l2->val+carry;
+            carry=num/10;
+            num=num%10;
+            n->val=num;
+            n->next=addTwoNumbers(l1,l2->next,carry);
+        }else if(carry>0){
+            n->val=carry;
+        }else return nullptr;
+        return n;
     }
-
-    ListNode* Helper(ListNode* l1, ListNode* l2) {
-        ListNode* dummyHead = new ListNode(0);
-        ListNode* tail = dummyHead;
-        int carry = 0;
-
-        while (l1 != nullptr || l2 != nullptr || carry != 0) {
-            int digit1 = (l1 != nullptr) ? l1->val : 0;
-            int digit2 = (l2 != nullptr) ? l2->val : 0;
-
-            int sum = digit1 + digit2 + carry;
-            int digit = sum % 10;
-            carry = sum / 10;
-
-            ListNode* newNode = new ListNode(digit);
-            tail->next = newNode;
-            tail = tail->next;
-
-            l1 = (l1 != nullptr) ? l1->next : nullptr;
-            l2 = (l2 != nullptr) ? l2->next : nullptr;
-        }
-
-        ListNode* result = dummyHead->next;
-        delete dummyHead;
-        return result;
-    }
-
-    ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
-        l1 = reverseList(l1);
-        l2 = reverseList(l2);
-        ListNode* ans = Helper(l1, l2);
-        return reverseList(ans);
-        
-    }
-};
+};    
