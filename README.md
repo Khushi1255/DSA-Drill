@@ -163,5 +163,11 @@ The solutions are categorized based on DSA topics and difficulty levels.
 | 8  | [Multiply two linked lists](https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1) | [Multiply_two_linked_lists.cpp](Linked_Lists/Multiply_two_linked_lists.cpp) | 🟩Easy |
 | 9  | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/) | [Intersection_of_Two_Linked_Lists.cpp](Linked_Lists/Intersection_of_Two_Linked_Lists.cpp) | 🟩Easy |
 | 10  | [Delete nodes having greater value on right](https://www.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1) | [Delete_nodes_having_greater_value_on_right.cpp](Linked_Lists/Delete_nodes_having_greater_value_on_right.cpp) | 🟩Easy |
+| 11  | [Palindrome LL](https://leetcode.com/problems/palindrome-linked-list/) | [Palindrome_LL.cpp](Linked_Lists/Palindrome_LL.cpp) |🟦Medium |
+| 12  | [Reversse LL](https://leetcode.com/problems/reverse-linked-list/) | [Reverse_LL.cpp](Linked_Lists/Reverse_LL.cpp) | 🟦Medium |
+| 13  | [Add 2 numbersI](https://leetcode.com/problems/add-two-numbers/) | [Add_2_numbersI.cpp](Linked_Lists/Add_2_numbersI.cpp) | 🟦Medium|
+| 14  | [Add 2 numbersII](https://leetcode.com/problems/add-two-numbers-ii/) | [Add_2_numbersII.cpp](Linked_Lists/Add_2_numbersII.cpp) | 🟦Medium |
+| 15  | [Reverse LL II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Reverse_LL2.cpp](Linked_Lists/Reverse_LL2.cpp) | 🟦Medium |
+| 16  | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Reorder_List.cpp](Linked_Lists/Reorder_List.cpp) | 🟦Medium|
 
 </details>
